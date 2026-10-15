@@ -4,7 +4,7 @@ A lightweight static website for a senior-care service. It is designed to deploy
 
 ## Contact form
 
-The form uses [FormSubmit](https://formsubmit.co/) as a no-backend email relay. It sends the enquiry to `kinagianooj@gmail.com` and sends the visitor the supplied automatic acknowledgement included in `index.html`.
+The form uses [FormSubmit](https://formsubmit.co/) as a no-backend email relay. It sends the enquiry to `kinagianooj@gmail.com` and sends the visitor the supplied automatic acknowledgement included in `index.html`. FormSubmit's CAPTCHA remains enabled because its autoresponse feature depends on it; after submission, visitors return to the site home page.
 
 On the first form submission after publishing, FormSubmit will email the destination inbox for activation. Open that email and approve the form; future submissions will then be delivered. Before using the site for real enquiries, update the privacy language and contact details to match the organisation and applicable laws.
 
