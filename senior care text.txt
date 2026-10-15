@@ -1,0 +1,56 @@
+1. Services Page Copy
+Page Header
+Comprehensive Non-Medical Home Care Services
+Personalized Daily Living Support, Guided & Supervised by Registered Nurses
+At 24x7 Home Care, we provide reliable, compassionate non-medical support tailored to your loved one’s lifestyle and daily routines. Under the direct supervision of a Registered Nurse, our care plans ensure maximum safety, dignity, and peace of mind for the whole family.
+
+Service Categories
+1. Personal Care & Hygiene Support
+Respectful, hands-on assistance designed to preserve dignity and comfort in daily routines.
+
+Assistance with Bathing & Grooming: Safe support with showers, baths, hair care, and skin care.
+Dressing & Oral Care: Helping clients look and feel their best each morning and evening.
+Toileting & Incontinence Care: Discreet, sensitive assistance focused on cleanliness and hygiene.
+Mobility & Transfer Assistance: Safe assistance getting into and out of bed, chairs, or wheelchairs to prevent falls.
+2. Companionship & Household Support
+Fostering connection and managing day-to-day household operations to keep the home comfortable.
+
+Friendly Companionship: Engaging in conversation, hobbies, reading, or memory activities.
+Nutritious Meal Preparation: Preparing healthy meals according to diet preferences and dietary restrictions.
+Light Housekeeping & Laundry: Sweeping, tidying up, dishwasher loading, linen changes, and laundry.
+Errands & Groceries: Assistance with grocery shopping, prescription pickups, and light errands.
+3. Routine Support & Wellness Monitoring
+Keeping routines organized and keeping families informed.
+
+Medication Reminders: Gentle reminders to ensure timely intake of prescribed routines (non-administration).
+Routine Tracking & Care Log: Daily updates logged by caregivers and reviewed regularly by our RN team.
+Appointment Escort: Accompaniment to medical appointments, social outings, or family gatherings.
+4. Specialized Family & Respite Care
+Family Caregiver Respite: Flexible hours to give full-time family caregivers necessary rest and relief.
+Post-Hospitalization Support: Transitional non-medical care helping clients return safely home after hospital discharge.
+24/7 & Overnight Care: Round-the-clock home coverage for clients needing continuous oversight and companionship.
+2. Automated Email Follow-Up Message
+This automated email should be sent immediately after a client or family member submits the intake form on your website.
+
+
+Sample Email response when someone tries to contact using Web form
+
+Subject: Thank you for contacting 24x7 Home Care – We have received your request
+
+Dear [Client/Family Name],
+
+Thank you for reaching out to 24x7 Home Care. We have safely received your request for a complimentary in-home care assessment.
+
+We understand that seeking care for a family member is an important and often time-sensitive decision. A member of our nursing leadership team will review your submission and contact you by phone within 1 business day (or sooner) to discuss your needs and schedule a convenient time for your initial assessment.
+
+What Happens Next?
+Initial Call: We will reach out to understand your current situation and answer any immediate questions.
+In-Home Assessment: Our Registered Nurse will conduct a complimentary, low-pressure assessment in the client's home environment.
+Custom Care Plan: We design a tailored care routine matching the right caregiver to your family's preferences and requirements.
+If you require immediate assistance or have urgent care needs, please call our 24/7 team directly at (780) XXX-XXXX.
+
+Warm regards,
+
+The Nursing Leadership Team 24x7 Home Care Phone: (780) XXX-XXXX Email: care@24x7homecare.ca Website: [www.24x7homecare.ca]
+
+Would you like assistance drafting content for a Frequently Asked Questions (FAQ) section, creating a care plan document template, or outlining a Google Doc/Sheet for intake tracking?
